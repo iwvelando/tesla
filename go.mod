@@ -1,4 +1,4 @@
-module github.com/rickbassham/tesla
+module github.com/iwvelando/tesla
 
 go 1.13
 
